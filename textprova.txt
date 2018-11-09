@@ -1,3 +1,5 @@
 Repositori Merino_Angel
 
 Afegeixo linea des de el repositori local.
+
+hola soy ivan
